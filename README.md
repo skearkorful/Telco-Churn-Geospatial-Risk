@@ -9,11 +9,10 @@ While this repository utilizes a telecommunications dataset, the underlying mach
 * **Geospatial Logistics Routing:** The geographic risk framework maps directly to supply chain network topology, identifying route bottlenecks, warehouse dead zones, and regional infrastructure vulnerabilities.
 * **Feature Optimization:** The hyperparameter tuning (GridSearchCV) and feature importance tracking isolate operational thresholds just as effectively for inventory stockouts as they do for customer accounts.
 
-
 ### 🛠️ Tools Used
 * **Languages & Environments:** Python (Pandas, NumPy, Scikit-Learn), Jupyter Notebooks
 * **Algorithms & Optimization:** Logistic Regression, Hyperparameter Tuning (GridSearch CV)
-* **Core Methodologies:** Feature Importance Analysis, Signal Stability Threshold Isolation (0.6 Breaking Point)
+* **Core Methodologies:** Feature Importance Analysis, Signal Stability Interaction Analysis (0.6 Threshold Tracking)
 
 ### 📈 Results & Outcomes
 * **High Predictive Power:** Achieved a stable **0.84 Test ROC-AUC** score by successfully blending standard customer records with active network data.
@@ -24,7 +23,7 @@ While this repository utilizes a telecommunications dataset, the underlying mach
 
 ### 📁 Project Deliverables & Submission Files
 All mandatory rubric components can be accessed directly via the repository links below:
-* 📄 [Final Project Report (PDF)](Capstone_Two_Report.pdf)
-* 📊 [Presentation Slide Deck (PDF)](Capstone_Two_Slides.pdf)
+* 📄 [Final Project Report (PDF)](Capstone%20Two%20-%20Report.pdf)
+* 📊 [Presentation Slide Deck (PDF)](Capstone%20Two%20-%20Slides.pdf)
 * 🔢 [Model Metrics Output Data (CSV)](feature_importances.csv)
-* 📓 [Clean Data Science Notebooks](notebooks/)
+* 💻 [Clean Data Science Notebook](Capstone%20Two%20Localized%20Telco%20Retention%20A%20Ge...)
