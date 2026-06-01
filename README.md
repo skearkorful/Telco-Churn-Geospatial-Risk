@@ -16,9 +16,9 @@ While this repository utilizes a telecommunications dataset, the underlying mach
 * **Core Methodologies:** Feature Importance Analysis, Signal Stability Threshold Isolation (0.6 Breaking Point)
 
 ### 📈 Results & Outcomes
-* Achieved a **0.84 Test ROC-AUC** score by successfully optimizing machine learning architectures.
-* Tuned decision thresholds to 0.43 to drive an **85% Recall rate**, capturing high-value users trapped in technical "dead zones."
-* Identified a **0.6 infrastructure stability breaking point** that isolated a 17.71% risk zone, reducing active churn by **7.91%** and protecting accounts valued at over $500 in Customer Acquisition Costs (CAC).
+* **High Predictive Power:** Achieved a stable **0.84 Test ROC-AUC** score by successfully blending standard customer records with active network data.
+* **Optimized Safety Coverage:** Tuned the decision threshold to **0.42** to lock in an **85% Recall rate**, successfully identifying high-value subscribers within regional network dead zones early.
+* **Infrastructure Insights:** Proved that while isolated signal instability acts as a secondary compounding trigger rather than a standalone cause of customer loss, targeting repairs in high-value fiber cohorts directly defuses the highest concentrated revenue risk, protecting significant Customer Acquisition Costs (CAC).
 
 ---
 
