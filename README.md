@@ -1,4 +1,4 @@
-# Hybrid Telco Churn & Geospatial Risk Analysis
+# Localized Telco Retention — A Geospatial and Financial Risk Analysis
 
 ### 🎯 Project Objective
 To build a Hybrid Geospatial Risk framework that integrates traditional billing data with engineered network infrastructure metrics (Signal Stability Index and Outage History Score), eliminating customer visibility blind spots and enabling localized, proactive retention strategies.
